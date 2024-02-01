@@ -1,0 +1,107 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-top: 5vh;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+
+}
+.body {
+    height: 90vh;
+    width: 65vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 0;
+}
+
+.top {
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2vh;
+}
+
+.icon-HTML5-Rigoberto {
+    display: flex;
+    flex-direction: row;
+}
+
+#HTML5 {
+    position: relative;
+    top: 0.4vh;
+    font-size: 4.2vh;
+}
+
+.HTML5-Rigoberto {
+    margin: 0;
+    padding-left: 1.2vh;
+    font-size: 2.1vh;
+}
+
+.HTML5-Rigoberto first-child {
+    font-weight: 700;
+}
+
+.HTML5-Rigoberto :nth-child(2) {
+    margin: 0;
+    font-weight: 500;
+}
+
+#three-dots {
+    font-size: 5vh;
+}
+
+.main-photo {
+  height: 55%;
+  width: auto;
+}
+
+.interactions {
+  font-size: 5vh;
+  height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2vh;
+}
+
+.three-icons {
+
+}
+
+.fa-heart {
+
+}
+
+.fa-comment {
+
+}
+
+.fa-paper-plane {
+
+}
+
+.fa-bookmark {
+
+}
+
+.bottom-text {
+  font-size: 2vh;
+  height: 25%;
+  padding: 2vh;
+}
+
+.bottom-text-top {
+    /* Add styles */
+}
+
+.bottom-text-bottom {
+    /* Add styles */
+}
